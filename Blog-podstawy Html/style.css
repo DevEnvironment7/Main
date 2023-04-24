@@ -1,0 +1,200 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+img{
+    max-width: 100%;
+    display: block;
+
+}
+
+h1,h2,h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500 ;
+    
+}
+h1{
+    font-size: 2.3rem;
+    color: white;
+}
+
+h2{
+    font-size: 1.4rem;
+}
+
+.text-light{
+    color:white;
+}
+
+.subtitle{
+    font-weight: bold;
+    color: #8a8a8a;
+}
+
+
+
+header nav ul{
+    list-style:none;
+    display: flex;
+    justify-content: center;
+
+}
+
+header nav li{
+    padding-left: 12px;
+}
+
+header nav a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+header nav a:hover {
+    color: yellow;
+}
+
+header {
+    background-image: url(http://source.unsplash.com/1000x400/?programming);
+    background-size: cover;
+    text-align: center ;
+    padding: 36px;
+}
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.featured-article{
+    margin: 24px 0 ;
+    padding-bottom: 14px;
+}
+
+img.featured-img{
+    margin-bottom: 10px;
+
+}
+
+.artcile-date{
+    margin: 7px 0 ;
+}
+
+.article-recent{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+
+p.read-more {
+    margin-top: 10px;
+    font-weight: bold;
+    color: grey;
+}
+
+
+@media(min-width: 768px){
+     .container-flex{
+        flex-direction: row;
+     }
+
+     main{
+        width: 70%;
+     }
+
+     aside{
+        width:25%;
+        right:140px;
+       
+        
+     }
+
+     .article-recent{
+        flex-direction: row;
+     }
+
+     .article-recent-main{
+        width:65%;
+
+     }
+     .article-recent-secondary{
+        width: 30%;
+     }
+
+     .article-img{
+        width: 100%;
+        min-height: 250px;
+        align-items: center;
+        object-fit: cover;
+
+     }
+}
+
+@media(max-width: 768px){
+    nav ul{
+        margin-top: 30px;
+    }
+
+    article{
+        margin-top: 50px;
+    }
+
+    article h2{
+        margin-top: 10px;
+    }
+}
+
+.sidebar{
+    position: relative;
+    right:-140px;
+}/*geniusz */
+
+.sidebar .widget{
+    border: 10px solid grey;
+    margin: 24px 0;
+    padding: 10px;
+}
+
+.sidebar .widget-img{
+    margin:7px 0;
+
+}
+
+.sidebar .widget-menu{
+    list-style: none;
+}
+
+.sidebar .widget-menu li{
+    margin: 5px;
+}
+
+.sidebar .widget-recent-post{
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    background-color: rgb(113, 99, 99);
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.copyright{
+    text-align: right;
+}
+
