@@ -1,0 +1,106 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
+.TotalSpace{
+    position: relative;
+    display: inline-block;
+    
+    
+}
+
+
+
+.Major{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+}
+
+.mainbar1{
+    position: relative;
+    width: 100%; 
+    display: flex;
+    justify-content: flex-end;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff; 
+}
+
+.mainbar2{
+    background-color:rgb(255,0,0); 
+    height: 40px; 
+    width: 100%;
+}
+
+#playerHealth{
+    position: absolute;
+    background: rgb(170, 170, 190);
+    top:0;
+    right:0;
+    bottom:0;
+    width: 100%;
+
+}
+
+.timer{
+    background-color: rgb(149, 83, 165); 
+    height: 100px; 
+    width:100px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid #da03ab;
+    border-radius: 22px;
+    color: black;
+
+}
+
+.enemyMain{
+    position: relative;
+    width: 100%;
+    
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff; 
+}
+
+.enemyMain2{
+    background-color:rgb(255,0,0);
+    height: 40px; 
+    
+}
+
+
+#enemyHealth{
+    position: absolute; 
+    background: rgb(28, 28, 44);
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;  
+   
+}
+.Banner{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 300px;
+    display: none;
+    font-size: 2rem;
+    word-spacing: 5px;
+    text-shadow: -36px 4px 14px rgba(2, 5, 19, 1);
+}
