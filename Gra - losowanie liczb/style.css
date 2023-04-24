@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 26px;
+    color: rgb(124, 48, 48);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blanchedalmond;
+ 
+
+
+}
+
+body {
+
+
+    width: auto;
+}
+
+.tabela{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background: border-box;
+    background-color: blueviolet;
+    
+}
+
+
+.box-justify{
+
+    padding: 100px;
+    border: 2px solid white;
+}
+
+#button{
+    
+    height: 60px;
+    width: 120px;
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+#answer{
+    padding: 20px 320px;
+    margin: 15px;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+}
+
+#input{
+    left: 120px ;
+    padding: 20px;
+    margin:  15px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+}
+
+.list{
+    
+    padding: 180px 20px;
+    margin: 15px;
+    border: 2px solid black;
+    background-color: white;
+    
+    
+}
+
+
+h2{
+    color: darkslategray;
+    position: relative;
+    top: -160px;
+    background-color: white;
+    
+}
+
+ul{
+    position: relative;
+    top: -140px;
+     left: 10px;
+     
+}
+
+.good{
+    color: green;
+}
