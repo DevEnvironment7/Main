@@ -9,7 +9,7 @@ In general, I post photos of projects that I did in the past in every free momen
 Of course, these are projects from completely different industries.
 I like designing, it gives me a lot of satisfaction.
 
-Projekty zostały wykonane w NX siemens oraz jeden projekt wiaty garażowej. 
+Projekty zostały wykonane w NX siemens oraz jeden projekt wiaty garażowej. <br>
 The designs were made in NX siemens and one shed design using archicad 22.
 
 ![Zrzut ekranu (16)](https://user-images.githubusercontent.com/130925883/234099081-01590a41-a1f2-4207-9d69-937996555e36.png)
