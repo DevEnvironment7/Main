@@ -16,7 +16,7 @@ The designs were made in NX siemens and one shed design using archicad 22.
 ![Zrzut ekranu (15)](https://user-images.githubusercontent.com/130925883/234099259-52de49ca-2a8e-48f2-a6a6-49f0dfb4ae17.png)
 
 
-PL  Oprawka frezerska wraz z przekrojem : 
+PL  Oprawka frezerska wraz z przekrojem : <br>
 EN  Milling holder with cross-section:
 
 ![Zrzut ekranu (154) — kopia](https://user-images.githubusercontent.com/130925883/236225678-ff96253a-11bf-4b6d-a955-7e9c48ccf792.png)
@@ -24,14 +24,14 @@ EN  Milling holder with cross-section:
 ![Zrzut ekranu (156)](https://user-images.githubusercontent.com/130925883/236225686-7625e6a6-78d8-4624-90cd-02ba5fe009e4.png)
 ![Zrzut ekranu (157)](https://user-images.githubusercontent.com/130925883/236225690-333bcff7-d004-499e-8e72-a2380bf11a9c.png)
 
-PL  Część mechaniczna:
+PL  Część mechaniczna:<br>
 EN  Mechanical part:
 
 ![Zrzut ekranu (158)](https://user-images.githubusercontent.com/130925883/236225696-2ee87934-c803-4e98-a792-9bcd04c371c8.png)
 ![Zrzut ekranu (161) — kopia](https://user-images.githubusercontent.com/130925883/236226252-76288543-28cf-4ff5-9bb4-0bb020a27297.png)
 
-PL  Część mechaniczne oraz program do ich wykonania za pomocą oprogramowania NX Cam (Tokarka) :
-EN  Mechanical part and the program to make them using NX Cam (Lathe) software:
+PL  Część mechaniczne oraz program do ich wykonania za pomocą oprogramowania NX Cam:<br>
+EN  Mechanical part and the program to make them using NX Cam software:
 
 ![Zrzut ekranu (166)](https://user-images.githubusercontent.com/130925883/236226178-44c797e3-115e-49e3-9fa5-d588545a73cb.png)
 ![Zrzut ekranu (167)](https://user-images.githubusercontent.com/130925883/236226195-18db5c5f-df64-4433-88a8-e9f3f39dda2b.png)
@@ -50,7 +50,7 @@ EN  Mechanical part and the program to make them using NX Cam (Lathe) software:
 ![Zrzut ekranu (165) — kopia](https://user-images.githubusercontent.com/130925883/236226293-4a95d8eb-63cf-48c1-9655-ce98873ae526.png)
 ![Zrzut ekranu (165)](https://user-images.githubusercontent.com/130925883/236226298-94f0d1eb-7f22-4557-8ffd-c38e50e28cf1.png)
 
-PL Projekt wiaty garażowej wykanany w archicad 22 (projekt architektoniczny) 
+PL Projekt wiaty garażowej wykanany w archicad 22 (projekt architektoniczny) <br>
 EN Shed project made in Archicad 22 (architectural projekt)
 
 ![Zrzut ekranu (180)](https://user-images.githubusercontent.com/130925883/236226455-ba2588a6-ce6f-4733-9eb5-8435e360a61d.png)
