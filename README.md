@@ -1,5 +1,6 @@
 # Main
 
+
 Ogólnie zamieszczam zdjęcia projektów, które w przeszłości robiłem w każdej wolnej chwili. Wszystkich programów uczyłem się sam w domu. 
 Oczywiście to projekty z zupełnie różnych branż.
 Lubię projektować sprawia mi to dużo satysfakcji. 
@@ -9,6 +10,7 @@ Of course, these are projects from completely different industries.
 I like designing, it gives me a lot of satisfaction.
 
 Projekty zostały wykonane w NX siemens oraz jeden projekt wiaty garażowej. 
+The designs were made in NX siemens and one shed design using archicad 22.
 
 ![Zrzut ekranu (16)](https://user-images.githubusercontent.com/130925883/234099081-01590a41-a1f2-4207-9d69-937996555e36.png)
 ![Zrzut ekranu (15)](https://user-images.githubusercontent.com/130925883/234099259-52de49ca-2a8e-48f2-a6a6-49f0dfb4ae17.png)
