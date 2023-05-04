@@ -1,5 +1,4 @@
 # Main
-123
 
 Ogólnie zamieszczam zdjęcia projektów, które w przeszłości robiłem w każdej wolnej chwili. Wszystkich programów uczyłem się sam w domu. 
 Oczywiście to projekty z zupełnie różnych branż.
